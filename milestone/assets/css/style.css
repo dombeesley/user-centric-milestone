@@ -1,0 +1,20 @@
+
+
+.header-container{
+    background: url('../images/bookshelf.jpg') no-repeat bottom right fixed;
+}
+
+.shop-name{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron-header{
+    color: #ffffff;
+    font-family: 'Dancing Script', cursive;
+}
+
+.shop-name{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
