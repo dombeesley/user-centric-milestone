@@ -12,6 +12,7 @@
 .jumbotron-header{
     color: #ffffff;
     font-family: 'Dancing Script', cursive;
+    font-size: 57px;
 }
 
 .shop-name{
@@ -20,8 +21,43 @@
     margin-right: 125px;
 }
 
-/* Footer section */
+/* Navbar section */
+
+.nav-link{
+    color: #d55d5d;
+    font-family: 'Lobster', sans-serif;
+    font-size: 19px;
+    text-align: center;
+}
+
+.nav-link a:hover{
+    color: blue;
+}
+
+ /* Middle section */
+ .midsection{
+    text-align: center;
+    display: inline-block;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-top: 25px;
+ }
+
+ /* Footer section */
 
 #footer{
-    background: grey;
+    background: #FFFAFA;
+    font-family: 'Lobster', sans-serif;
+    font-size: 25px;
+    color: #d55d5d;
+}
+
+.phone-number{
+    font-size: 18px;
+}
+
+.social-links i {
+    font-size:18px;
+    color: #d55d5d;
 }
