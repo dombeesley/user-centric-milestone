@@ -1,0 +1,102 @@
+/* Navbar section */
+
+.navbar{
+    width:100%;
+    background: #FFFAFA;
+    position: fixed;
+    z-index: 9;
+}
+
+.nav-link{
+    color: #d55d5d;
+    font-family: 'Lobster', sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
+
+.nav-link a:hover{
+    color: blue;
+}
+
+/* Header section */
+
+.header-container{
+    background: url('../images/bookshelf.jpg') no-repeat bottom right fixed;
+    background-size: cover;
+    size: 100vh;
+}
+
+.shop-name{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron-header{
+    color: #ffffff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 57px;
+}
+
+.shop-name{
+    margin-top: 75px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+ /* Middle section */
+
+ .midsection{
+    
+    display: inline-block;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-top: 25px;
+ }
+
+ /* Footer section */
+
+#footer{
+    background: black;
+    font-family: 'Lobster', sans-serif;
+    color: #d55d5d;
+}
+
+.phone-number{
+    font-size: 20px;
+}
+
+.social{
+    float:right;
+}
+
+.social-logo i {
+    font-size:20px;
+    color: #d55d5d;
+}
+
+.number{
+    color: #d55d5d;
+}
+
+.social-logo i:hover{
+    color: blue;
+}
+
+.phone-number:hover{
+    color: blue;
+}
+
+.social-logo {
+    display: inline-block;
+    padding-right:15px;
+    text-align: center;
+    }
+
+ /* Contact section */
+
+.contact-label{
+    text-align: left;
+}
+
+/* Events section */
+
