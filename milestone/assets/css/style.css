@@ -1,6 +1,7 @@
 /* Navbar section */
 
-.navbar{
+.navbar-container{
+    width:100%;
     background: #FFFAFA;
 }
 
@@ -57,11 +58,6 @@
     top: 0;
 }
 
-button{
-    background: #d55d5d;
-    font-family: 'EB Garamond', serif;
-    font-size: 25px;
-}
  /* Footer section */
 
 #footer{
@@ -101,6 +97,6 @@ button{
 
  /* Contact section */
 
-/*.contact-text{
-    margin-left: 5px;
-}*/
+
+/* Events section */
+
