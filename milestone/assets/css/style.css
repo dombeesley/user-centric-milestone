@@ -22,10 +22,6 @@
     background-size: cover;
 }
 
-.shop-name:hover{
-    transition: all 0.5s ease-in-out;
-}
-
 .shop-name{
     background-color: rgba(0, 0, 0, 0.5);
 }
@@ -53,6 +49,19 @@
     margin-top: 25px;
  }
 
+.vl{
+    border-left: 1px solid grey;
+    height: 690px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+button{
+    background: #d55d5d;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+}
  /* Footer section */
 
 #footer{
@@ -80,8 +89,18 @@
     color: blue;
 }
 
+.phone-number:hover{
+    color: blue;
+}
+
 .social-logo {
     display: inline-block;
     padding-right:15px;
     text-align: center;
     }
+
+ /* Contact section */
+
+/*.contact-text{
+    margin-left: 5px;
+}*/
