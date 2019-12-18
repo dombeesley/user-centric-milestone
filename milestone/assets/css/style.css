@@ -22,6 +22,10 @@
     background-size: cover;
 }
 
+.shop-name:hover{
+    transition: all 0.5s ease-in-out;
+}
+
 .shop-name{
     background-color: rgba(0, 0, 0, 0.5);
 }
@@ -70,6 +74,10 @@
 .social-logo i {
     font-size:20px;
     color: #d55d5d;
+}
+
+.social-logo i:hover{
+    color: blue;
 }
 
 .social-logo {
