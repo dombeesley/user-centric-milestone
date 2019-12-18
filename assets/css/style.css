@@ -9,8 +9,8 @@
 
 .nav-link{
     color: #d55d5d;
-    font-family: 'Lobster', sans-serif;
-    font-size: 28px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
     text-align: center;
 }
 
@@ -23,23 +23,20 @@
 .header-container{
     background: url('../images/bookshelf.jpg') no-repeat bottom right fixed;
     background-size: cover;
-    size: 100vh;
+    height: 100vh;
 }
 
 .shop-name{
     background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+   
+
 }
 
 .jumbotron-header{
     color: #ffffff;
     font-family: 'Dancing Script', cursive;
     font-size: 57px;
-}
-
-.shop-name{
-    margin-top: 75px;
-    margin-left: 125px;
-    margin-right: 125px;
 }
 
  /* Middle section */
@@ -57,7 +54,7 @@
 
 #footer{
     background: black;
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Dancing Script', cursive;
     color: #d55d5d;
 }
 
