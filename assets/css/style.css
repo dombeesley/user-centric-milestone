@@ -28,19 +28,20 @@
 
 .shop-name{
     background-color: rgba(0, 0, 0, 0.5);
-    margin-top: 75px;
+    margin-top: 275px;
     margin-left: 125px;
     margin-right: 125px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
 }
 
 .jumbotron-header{
     color: #ffffff;
     font-family: 'Dancing Script', cursive;
-    font-size: 57px;
+    font-size: 60px;
+}
+
+.jumbotron-icon{
+    color: #ffffff;
+    font-size: 30px;
 }
 
  /* Homepage */
