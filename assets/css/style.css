@@ -31,6 +31,9 @@
     margin-top: 75px;
     margin-left: 125px;
     margin-right: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -38,6 +41,30 @@
     color: #ffffff;
     font-family: 'Dancing Script', cursive;
     font-size: 57px;
+}
+
+ /* Homepage */
+
+.bestsellers{
+    display: block;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-top: 25px;
+    text-align: center;
+}
+
+th{
+    font-weight: 400;
+}
+
+thead{
+    background: #d55d5d;
+    color: white;
+}
+
+table{
+    border: 1px solid black;
 }
 
  /* Middle section */
