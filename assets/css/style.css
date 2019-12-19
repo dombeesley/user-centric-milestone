@@ -156,13 +156,6 @@ textarea {
   overflow: auto;
 }
 
-#container {
-  border: solid 3px #474544;
-  max-width: 768px;
-  margin: 60px auto;
-  position: relative;
-}
-
 form {
   padding: 35px;
   margin: 50px 0;
@@ -178,7 +171,6 @@ input[type='text'], [type='email'], select, textarea {
 	border-bottom: solid 2px #474544;
 	color: #474544;
     font-weight: 400;
-    
 	margin: 0em 0 2em 0;
 	padding: 0 0 1em 0;
     text-transform: uppercase;
