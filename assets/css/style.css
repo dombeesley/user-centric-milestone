@@ -28,7 +28,7 @@
 
 .shop-name{
     background-color: rgba(0, 0, 0, 0.5);
-    margin-top: 275px;
+    margin-top: 180px;
     margin-left: 125px;
     margin-right: 125px;
 }
@@ -52,6 +52,19 @@
 }
 
  /* Homepage */
+
+ .bookshop-pic-container{
+     background-size: contain;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: auto;
+     text-align: center;
+     display: block;
+ }
+
+ .bookshop-pic{
+     border: solid 2px black;
+ }
 
 .bestsellers{
     display: block;
@@ -79,7 +92,7 @@ table{
     font-family: 'EB Garamond', serif;
     font-size: 25px;
     margin: 0 auto;
-    margin-top: 25px;
+    margin-top: 50px;
  }
 
  /* Footer section */
