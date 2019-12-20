@@ -60,11 +60,22 @@
      height: auto;
      text-align: center;
      display: block;
+
  }
 
  .bookshop-pic{
      border: solid 2px black;
  }
+
+@media screen and (max-width:943px){
+    .bookshop-pic-container{
+        display:none;
+    }
+}
+
+.midsection{
+    margin: 0 auto;
+}
 
 .bestsellers{
     display: block;
@@ -82,8 +93,13 @@ thead{
 
 table{
     border: 1px solid black;
+    margin: 0 auto;
 }
 
+.page-header{
+    text-align: center;
+    margin: 0 auto;
+}
  /* Middle section */
 
  .midsection{
