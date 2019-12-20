@@ -152,6 +152,51 @@ table{
 
  /* Contact section */
 
+.map{
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media screen and (max-width:943px){
+    .contact-text{
+    text-align: justify;
+    }
+
+    .map{
+        margin: 0 auto;
+        position: relative;
+        padding-bottom: 85%; 
+        height: 0;
+        overflow: hidden;
+    }
+
+    .map iframe{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 80%;
+        height: 80%;
+    
+    }
+
+    .contact-us{
+        margin: 0 auto;
+        position: relative;
+        padding-bottom: 180%; 
+        height: 0;
+        overflow: hidden;
+    }
+
+    .contact-form{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 80%;
+        height: 80%;
+    }   
+    
+}   
+
 .contact-label{
     text-align: left;
 }
