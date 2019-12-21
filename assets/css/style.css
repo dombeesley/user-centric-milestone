@@ -93,9 +93,13 @@
     
  }
 
-@media screen and (max-width:943px){
+@media screen and (max-width:768){
     .bookshop-pic-container{
         display:none;
+    }
+
+    .opening-hours{
+        float:left;
     }
 } 
 
