@@ -1,6 +1,6 @@
 # Dominic Beesley’s 1st Milestone Project
 
-A static front-end site to present useful information to users, using all the technologies that I've learned about so far, for Code Institute. This is a website for an imaginary bookshop, the Sempere & Sons book shop. It has three pages - a landing page, a page listing the shop’s forthcoming events, and a page with contact information and a contact form for potential customers.
+A static front-end site to present useful information to users, using all the technologies that I've learned about so far, for [Code Institute](https://codeinstitute.net/). This is a website for an imaginary bookshop, the Sempere & Sons book shop. It has three pages - a landing page, a page listing the shop’s forthcoming events, and a page with contact information and a contact form for potential customers.
 
 ## UX
 The goal of the website was for potential customers to find out more information about this book shop. To do this, I aimed to keep things simple for these users, while still providing as much content and information as possible, without the site looking too cluttered.
@@ -52,5 +52,5 @@ The image of a bookshop on index.html is from https://www.pexels.com/photo/blur-
 
 ### Acknowledgements
 
-I received inspiration for this project from my mentor, Antonija Šimić.
+I received inspiration for this project from my mentor, [Antonija Šimić](https://github.com/tonkec).
 

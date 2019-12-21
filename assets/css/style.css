@@ -21,7 +21,6 @@
     text-align: center;
 }
 
-
 .nav-link{
     color: #d55d5d;
     font-family: 'Dancing Script', cursive;
@@ -88,10 +87,6 @@
     }
 }
 
-.midsection{
-    margin: 0 auto;
-}
-
 .bestsellers{
     display: block;
     font-family: 'EB Garamond', serif;
@@ -126,7 +121,7 @@ table{
     
     display: inline-block;
     font-family: 'EB Garamond', serif;
-    font-size: 25px;
+    font-size: 18px;
     margin: 0 auto;
     margin-top: 50px;
  }
