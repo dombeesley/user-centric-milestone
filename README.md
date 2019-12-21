@@ -28,9 +28,9 @@ The map to the bookshop is from Google Maps.  It doesn’t actually show where t
 
 ## Technologies Used
 
-HTML – for creating the structure and layout of the website’s three pages.
-CSS – for styling the website’s content.
-Bootstrap – for styling the website’s content.
+* HTML – for creating the structure and layout of the website’s three pages.
+* CSS – for styling the website’s content.
+* Bootstrap – for styling the website’s content.
 
 ## Testing
 I tested the website on multiple browsers and screen sizes, to ensure that it worked and displayed all the content correctly for the user, and that the contents were responsive on different screen sizes.
