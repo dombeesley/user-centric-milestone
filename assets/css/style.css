@@ -218,11 +218,6 @@ button, select {
   text-transform: none;
 }
 
-button, input, textarea {
-  color: #5A5A5A;
-  
-  margin: 0;
-}
 
 input {
   line-height: normal;
@@ -289,7 +284,7 @@ textarea {
 }
 
 #form_button:hover {
-  background: #474544;
+  background: #d55d5d;
   color: #F2F3EB;
 }
 
