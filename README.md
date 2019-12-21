@@ -36,7 +36,13 @@ The map to the bookshop is from Google Maps.  It doesn’t actually show where t
 I tested the website on multiple browsers and screen sizes, to ensure that it worked and displayed all the content correctly for the user, and that the contents were responsive on different screen sizes.
 
 ## Deployment
-The website is deployed using GitHub pages. The source code for the site is on GitHub – it is deployed from the master branch, and will update automatically.
+The website is deployed using GitHub pages. 
+
+On the page for the GitHub repository for this project, I went to Settings.
+
+I scrolled down to the GitHub Pages section. 
+
+I chose Master Branch as the source, and this gave me the link to where the site is hosted on GitHub Pages. It’s deployed from the master branch, and will update automatically.
 
 ## Credits
 
