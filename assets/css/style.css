@@ -144,11 +144,13 @@ table{
 
  /* Footer section */
 
-#footer{
+.footer{
     background: black;
     font-family: 'Dancing Script', cursive;
     color: #d55d5d;
     padding-top:5px;
+    position:relative;
+
 }
 
 .phone-number{
@@ -226,23 +228,31 @@ table{
         font-family: 'EB Garamond', serif;
         margin: 0 auto;
         position: relative;
-        padding-bottom: 100%; 
-        height: 0;
+        padding-bottom: 10%; 
+        height: 100%;
         overflow: hidden;
+    }
+
+    .contact-container{
+        height: 100%;
+        margin-bottom: 10px;
     }
 
     .contact-form{
         top: 0;
         left: 0;
-        height: 80%;
+        height: 100%;
         font-size: 20px;
+        padding-bottom:10px;
+        margin-bottom: 250px;
+        overflow: hidden;
+        z-index: 2;
     }   
-    
-}   
-
-.contact-label{
-    text-align: left;
-}
+    .form-button{
+        padding-bottom:100%;
+        margin-bottom: 100px;
+    }
+} 
 
 .contact-form{
     font-family: 'EB Garamond', serif;
@@ -312,7 +322,7 @@ textarea {
     width: 100%;
 }
 
-#form_button {
+.form-button {
   background: none;
   border: solid 2px #474544;
   color: #474544;
@@ -326,7 +336,7 @@ textarea {
   text-transform: uppercase;
 }
 
-#form_button:hover {
+.form-button:hover {
   background: #d55d5d;
   color: #F2F3EB;
 }
@@ -339,7 +349,7 @@ textarea {
 }
 
 @media screen and (max-width: 480px) {
- #form_button {
+ .form-button {
     padding: 15px 25px;
   }
 }
